@@ -1,0 +1,19 @@
+h2 {
+	color: green;
+}
+
+#gallery {
+	text-align: center;
+}
+
+#middle-section img {
+	width:  15%;
+	text-align: center; 
+	/* Set a border around each image  */
+	border:  4px solid #555;
+}
+
+#bottom-section img {
+	width: 50%;
+	text-align:  center;
+}
